@@ -1,0 +1,14 @@
+Dependencies for Project 'Spi_Test', Target 'Spi_Test': (DO NOT MODIFY !)
+F (.\Startup\startup_stm32f10x_md.s)(0x4D77E872)(--cpu Cortex-M3 -g --apcs=interwork -I.\RTE\_Spi_Test-IC:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.3.0\Device\Include-IC:\Keil_v5\ARM\CMSIS\Include--pd "__UVISION_VERSION SETA 524" --pd "STM32F10X_MD SETA 1"--list .\listings\startup_stm32f10x_md.lst --xref -o .\objects\startup_stm32f10x_md.o --depend .\objects\startup_stm32f10x_md.d)
+F (.\CMSIS\src\core_cm3.c)(0x4C0BF60E)(--c99 -c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections -I .\ -I .\CMSIS\inc -I .\Main\inc-I.\RTE\_Spi_Test-IC:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.3.0\Device\Include-IC:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="524" -DSTM32F10X_MD-o .\objects\core_cm3.o --omf_browse .\objects\core_cm3.crf --depend .\objects\core_cm3.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x588BC994)
+F (.\CMSIS\src\system_stm32f10x.c)(0x5CCB0AAA)(--c99 -c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections -I .\ -I .\CMSIS\inc -I .\Main\inc-I.\RTE\_Spi_Test-IC:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.3.0\Device\Include-IC:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="524" -DSTM32F10X_MD-o .\objects\system_stm32f10x.o --omf_browse .\objects\system_stm32f10x.crf --depend .\objects\system_stm32f10x.d)
+I (.\CMSIS\inc\stm32f10x.h)(0x5CC76674)
+I (.\CMSIS\inc\core_cm3.h)(0x4D51E6F8)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x588BC994)
+I (.\CMSIS\inc\system_stm32f10x.h)(0x4D77E84A)
+F (.\Main\src\main.c)(0x5CD2D161)(--c99 -c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections -I .\ -I .\CMSIS\inc -I .\Main\inc-I.\RTE\_Spi_Test-IC:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.3.0\Device\Include-IC:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="524" -DSTM32F10X_MD-o .\objects\main.o --omf_browse .\objects\main.crf --depend .\objects\main.d)
+I (.\CMSIS\inc\stm32f10x.h)(0x5CC76674)
+I (.\CMSIS\inc\core_cm3.h)(0x4D51E6F8)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x588BC994)
+I (.\CMSIS\inc\system_stm32f10x.h)(0x4D77E84A)
